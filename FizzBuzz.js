@@ -14,6 +14,7 @@ while (i < 100) {
     } else if (i % 5 === 0) {
         console.log("Buzz");
     }
+    i++;
 }
 
 
